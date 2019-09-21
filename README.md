@@ -4,7 +4,7 @@
 
 ## Project Description
 
-You can find the project description [here](doc/Proj1_desc.md). 
+You can find the complete project description [here](doc/Proj1_desc.md). 
 
 This is the first and only *individual* (as opposed to *team*) this semester. This project is conducted by **Shijie Zhang**.
 
