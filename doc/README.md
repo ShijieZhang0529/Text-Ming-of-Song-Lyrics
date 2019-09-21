@@ -1,5 +1,5 @@
-# ADS Project 1:  R Notebook on Lyrics Analysis
+# Text Ming of Song Lyrics
 
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+The doc directory contains the code or presentation files.
