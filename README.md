@@ -14,7 +14,7 @@ In this project, I apply text mining and natural language processing techniques 
 
 ## Data Story
 
-[Song Lyrics: The Soul of Music](doc/Project_report.html) 
+### [Song Lyrics: The Soul of Music](doc/Project_report.html) 
 
 
 
