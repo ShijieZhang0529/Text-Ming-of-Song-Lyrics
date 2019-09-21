@@ -1,6 +1,6 @@
 ---
 title: 'Song Lyrics: The Soul of Music'
-author: ""
+author: "Shijie Zhang"
 output:
   html_document:
     df_print: paged
