@@ -2,7 +2,10 @@
 
 <img src="figs/title1.jpeg" width="500">
 
-## [Project Description](doc/Proj1_desc.md)
+## Project Description
+
+You can find the project description [here](doc/Proj1_desc.md). 
+
 This is the first and only *individual* (as opposed to *team*) this semester. This project is conducted by **Shijie Zhang**.
 
 
