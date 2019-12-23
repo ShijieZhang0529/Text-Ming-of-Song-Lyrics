@@ -1,4 +1,4 @@
-# Project 1: Text Mining of Song Lyrics
+# Text Mining of Song Lyrics
 
 <img src="figs/title1.jpeg" width="500">
 
