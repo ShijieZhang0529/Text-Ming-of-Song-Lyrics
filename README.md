@@ -21,9 +21,9 @@ In this project, I apply text mining and natural language processing techniques 
 
 ## Example of Visualizations
 
-![p1](fig/p1.png)
-![p2](fig/p2.png)
-![p3](fig/p3.png)
+![p1](figs/p1.png)
+![p2](figs/p2.png)
+![p3](figs/p3.png)
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
