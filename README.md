@@ -1,13 +1,6 @@
-# Project1: Text Mining of Song Lyrics
+# Text Mining of Song Lyrics
 
 <img src="figs/title1.jpeg" width="500">
-
-## Project Description
-
-You can find the complete project description [here](doc/Proj1_desc.md). 
-
-This is the first and only *individual* (as opposed to *team*) this semester. This project is conducted by **Shijie Zhang**.
-
 
 
 ## Project Summary
